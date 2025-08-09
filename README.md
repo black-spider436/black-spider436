@@ -6,7 +6,7 @@
 
 ## Hi there 👋
 <p align="center">
-<img alt="Development" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxuNTFyYW1ydDNhdzM0aWg4YzM1YXVwNHNieGlpMXVkdGdlbHV3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xeLcArwlg6j4sMw/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
+<img alt="Development" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTI1NmN1eHQyNmlhZ3diNGxqZmFyZG1vaDM2OXI3cjdvOGk2cm5ybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9VhbMwQUgXliE/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
